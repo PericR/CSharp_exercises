@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise4TimeComputerStart", "Exercise4TimeComputerStart\Exercise4TimeComputerStart.csproj", "{A3C1DD0D-DBA9-4A49-8AEF-7B1E71B51E34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C1DD0D-DBA9-4A49-8AEF-7B1E71B51E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C1DD0D-DBA9-4A49-8AEF-7B1E71B51E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C1DD0D-DBA9-4A49-8AEF-7B1E71B51E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C1DD0D-DBA9-4A49-8AEF-7B1E71B51E34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
